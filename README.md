@@ -1,2 +1,2 @@
 # contador
- exercício React [1/40]
+ exercício React [2/40]
